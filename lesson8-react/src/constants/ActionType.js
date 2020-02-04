@@ -1,0 +1,5 @@
+export const ADD_TO_CART = "ADD_TO_CART "; //type de check cac action
+export const CHANGE_MESSAGE = "CHANGE_MESSAGE "; 
+export const DELETE_PRODUCT_IN_CART = 'DELETE_PRODUCT_IN_CART';
+export const UPDATE_PRODUCT_IN_CART = 'UPDATE_PRODUCT_IN_CART';
+export const COMPLETE_PRODUCT_IN_CART = 'COMPLETE_PRODUCT_IN_CART';

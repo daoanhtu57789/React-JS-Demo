@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "anhtu",
+      "price": "2",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "xiaomi",
+      "price": "111",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "samsung 11",
+      "price": "1111",
+      "status": ""
+    },
+    {
+      "id": 6,
+      "name": "ii111",
+      "price": "1111",
+      "status": ""
+    },
+    {
+      "id": 7,
+      "name": "dtanh",
+      "price": "111111",
+      "status": true
+    }
+  ]
+}
